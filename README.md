@@ -1,0 +1,3 @@
+# MySlideshow
+ドットインストール「JavaScriptでスライドショーを作ろう」で作ったスライドショーです。
+CSSとJavaScriptを活用して、playボタンを押したらpauseボタンが表示され、pauseボタンを押したらplayボタンが表示されるところがエモいなと思いました。
